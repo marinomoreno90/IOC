@@ -2611,3 +2611,5 @@ recaudo-simit.portal-virtual.cc
 simit-fcm.portal-virtual.cc
 simit.portal-virtual.cc
 fcm-simit.portal-virtual.cc
+verificacionahora0.wixsite.com
+wixsite.com
